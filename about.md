@@ -1,6 +1,7 @@
 ---
 layout: post
 title: About
+comments: false
 ---
 
 
